@@ -122,7 +122,7 @@ _TODO: Answer the following questions to fill in the blanks:_
 - _Which file is the playbook? Where do you copy it?_
 
 - _Which file do you update to make Ansible run the playbook on a specific machine? 
-- Config file. 
+  Config file. 
 
 - How do I specify which machine to install the ELK server on versus which to install Filebeat on?
   Specifiy the machine when updating the config file. 
