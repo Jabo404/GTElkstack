@@ -6,13 +6,11 @@ The files in this repository were used to configure the network depicted below.
 
 ![TODO: Update the path with the name of your diagram]
 
-![Diagram](https://user-images.githubusercontent.com/28880848/110228492-9c448b80-7ecf-11eb-8f19-6ff0106a16dd.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
   - _TODO: Enter the playbook file._
-  - 
-(Images/elkdockeryml.PNG)
+ ![elkdockeryml](https://user-images.githubusercontent.com/28880848/110228554-0ceba800-7ed0-11eb-9cad-dbd1990df6a9.PNG)
 
 This document contains the following details:
 - Description of the Topologu
